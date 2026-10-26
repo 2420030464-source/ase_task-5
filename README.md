@@ -1,3 +1,1 @@
-# Gitflow Lab 5
-
-Gitflow practical assignment.
+# Gitflow Lab 5 - Feature Version
